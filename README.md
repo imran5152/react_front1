@@ -88,3 +88,12 @@ const {
   isInCart,     // (id) => boolean
 } = useCart();
 ```
+## 📸 Screenshots
+
+### Application
+
+![Application Screenshot](./screenshots/WhatsApp%20Image%202026-09-24%20at%206.07.59%201.jpeg)
+
+### Application Working
+
+![Application Working](./screenshots/WhatsApp%20Image%202026-09-24%20at%206.07.59%20PM.jpeg)
