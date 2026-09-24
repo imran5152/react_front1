@@ -1,5 +1,9 @@
 # ◈ ShopWave — E-Commerce App
 
+## 🚀 Live Demo
+
+https://react-front1-3.onrender.com/
+
 A modern, dark-themed e-commerce frontend built with **Vite + React**.
 
 ## Tech Stack
